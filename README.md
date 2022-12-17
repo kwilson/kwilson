@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 I’m on Twitter https://twitter.com/kwilson81
+- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@kwilson81">https://mastodon.social/@kwilson81</a>
+
 <!--
 **kwilson/kwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
