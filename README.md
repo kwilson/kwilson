@@ -1,7 +1,6 @@
 ### Hi there 👋
 Software developer, TypeScript enthusiast, whisky lover, coffee snob, sometime musician, and occasional cook. He/him. 🏴󠁧󠁢󠁳󠁣󠁴󠁿🌱
 
-- 🤔 I’m on Twitter https://twitter.com/kwilson81
 - 🤔 I’m on Mastodon <a rel="me nofollow" href="https://mastodon.social/@kwilson81">mastodon.social/@kwilson81</a>
 
 <!--
